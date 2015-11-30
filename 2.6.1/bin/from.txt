@@ -1,0 +1,1 @@
+https://github.com/google/protobuf/releases/download/v2.6.1/protoc-2.6.1-win32.zip
